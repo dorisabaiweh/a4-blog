@@ -1,0 +1,30 @@
+header {
+    text-align: center;
+    background-size: cover;
+    background: url("https://www.phyramid.com/blog/content/images/2014/11/header-background-indexed.png");
+    color: white;
+}
+.profile{
+	    border: 14px solid white;
+}
+h1 {
+    font-size: 70px;
+    margin: 20px;
+}
+.container {
+    margin: 0 auto;
+    padding: 50px;
+    width: 50%;
+}
+h2 {
+    font-size: 36px;
+    margin: 10px 0px;
+}
+p
+ {
+    margin: 20px 0px;
+    line-height: 1.5;
+    font-size: 20px;
+    clear: left;
+    text-align: center;
+}
